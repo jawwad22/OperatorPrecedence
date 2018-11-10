@@ -1,0 +1,6 @@
+D:\LAST SEMESTER\C.C\OperatorPrece\OperatorPrece\bin\Debug\OperatorPrece.exe.config
+D:\LAST SEMESTER\C.C\OperatorPrece\OperatorPrece\obj\Debug\OperatorPrece.csprojResolveAssemblyReference.cache
+D:\LAST SEMESTER\C.C\OperatorPrece\OperatorPrece\bin\Debug\OperatorPrece.exe
+D:\LAST SEMESTER\C.C\OperatorPrece\OperatorPrece\bin\Debug\OperatorPrece.pdb
+D:\LAST SEMESTER\C.C\OperatorPrece\OperatorPrece\obj\Debug\OperatorPrece.exe
+D:\LAST SEMESTER\C.C\OperatorPrece\OperatorPrece\obj\Debug\OperatorPrece.pdb
